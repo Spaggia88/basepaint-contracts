@@ -9,6 +9,7 @@
 | BasePaintBrushEvents      | `0xb152f48F207d9D1C30Ff60d46E8cb8c1a5d00dEC` |
 | BasePaintAnimation        | `0xC59F475122e914aFCf31C0a9E0A2274666135e4E` |
 | BasePaintMetadataRegistry | `0x5104482a2Ef3a03b6270D3e931eac890b86FaD01` |
+| BasePaintSubscription     | `0x75CF063a65d361527180805b244bC51c1deAb075` |
 
 ## Usage
 
